@@ -1,0 +1,7 @@
+{
+  "name": "Libraries Explorer",
+  "description": "A sophisticated explorer for world-class libraries, featuring AI-powered search grounding for up-to-date collection details and image editing capabilities.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
